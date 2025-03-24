@@ -43,7 +43,7 @@ This project demonstrates how a proxy server handles multiple client requests ef
 git clone https://github.com/prem-charan/multi-threaded-proxy-server.git
 
 # Navigate to the project directory
-cd MultiThreadedProxyServerClient
+cd multi-threaded-proxy-server
 
 # Compile the project
 make all
